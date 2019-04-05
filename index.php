@@ -6,6 +6,7 @@
 <body>
 
 <h1>PAGINA PRINCIPAL</h1>
+
 <p>This is a paragraph.</p>
 <?php
    echo "hola esta es mi versión 3";
@@ -15,8 +16,10 @@
    echo "hola esta es la modificación 2 de la versión 3":
 
 ?>
+
 <a href='aviso_legal.html'>Aviso legal</a>
 <A href="contacto.html">Enlace a contacto.</A>
+<a href="bienvenida.html">Bienvenida</a>
 
 </body>
 </html> 
